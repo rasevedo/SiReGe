@@ -1,0 +1,8 @@
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\bin\Release\AccesoDatos.dll
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\bin\Release\AccesoDatos.pdb
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\bin\Release\AccesoDatos.xml
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\obj\Release\AccesoDatos.Resources.resources
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\obj\Release\AccesoDatos.dll
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\obj\Release\AccesoDatos.xml
+D:\Users\rroque\Desktop\ProyectoBase\CapAccesoDatos\obj\Release\AccesoDatos.pdb

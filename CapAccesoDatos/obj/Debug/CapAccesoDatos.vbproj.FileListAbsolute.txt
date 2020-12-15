@@ -1,0 +1,16 @@
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\bin\Debug\CapAccesoDatos.dll
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\bin\Debug\CapAccesoDatos.pdb
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\bin\Debug\CapAccesoDatos.xml
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.Resources.resources
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.dll
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.xml
+C:\Users\rroque\Documents\Visual Studio 2012\Projects\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.pdb
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\bin\Debug\CapAccesoDatos.dll
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\bin\Debug\CapAccesoDatos.pdb
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\bin\Debug\CapAccesoDatos.xml
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.Resources.resources
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.vbproj.GenerateResource.Cache
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.dll
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.xml
+D:\Desarrollo\ProyectoBase\CapAccesoDatos\obj\Debug\CapAccesoDatos.pdb

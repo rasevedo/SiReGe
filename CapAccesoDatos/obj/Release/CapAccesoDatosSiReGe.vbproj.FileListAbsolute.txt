@@ -1,0 +1,10 @@
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\bin\Release\CapAccesoDatosSiReGe.dll
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\bin\Release\CapAccesoDatosSiReGe.pdb
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\bin\Release\CapAccesoDatosSiReGe.xml
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\obj\Release\CapAccesoDatosSiReGe.vbprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\obj\Release\CapAccesoDatosSiReGe.Resources.resources
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\obj\Release\CapAccesoDatosSiReGe.vbproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\obj\Release\CapAccesoDatosSiReGe.vbproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\obj\Release\CapAccesoDatosSiReGe.dll
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\obj\Release\CapAccesoDatosSiReGe.xml
+C:\Users\Rodrigo\source\repos\ProyectoBase\ProyectoBase\CapAccesoDatos\obj\Release\CapAccesoDatosSiReGe.pdb
